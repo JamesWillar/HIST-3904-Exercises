@@ -16,5 +16,11 @@ https://docs.google.com/spreadsheets/d/1bVoyqv0vxI2YwbqptFR7z6cJqiM3x-zbH2qqLShN
 
 The format that the site gives you is very useful for browsing and looking for any specifics. Obviously my search is quite broad but if I knew of a specific regiment or a better name to look for, it could be much better.
 
-Module 4
+Module 3 
+
+Module 4 Text Analysis in Voyant
+ https://raw.githubusercontent.com/shawngraham/exercise/gh-pages/CND.csv
+ https://raw.githubusercontent.com/shawngraham/exercise/gh-pages/CND.csv
+ There are many interesting points that can be made from voyant. The United Kingdom, Scotland, New York, Country, Glasgow are all said many times over. United is used more than kingdom, meaning that there was discussion of something actually being united and not just the United Kingdom. Most of the countries are brought up later on in the text meaning that there must have been some explenation of the idea or theme before getting into the specifics of where everything as happening. Some of the most interesting parts of Voyant, in my opinion, in seeing each of the important words in context in the bottom right square. Using this, you could see what about what these words actually mean, rather than just where they are.
  
+ Module 5
