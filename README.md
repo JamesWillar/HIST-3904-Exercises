@@ -32,4 +32,3 @@ Module 4 Text Analysis in Voyant
  
  Module 5 Sprucing Up a PDF in Inkscape
  
-
